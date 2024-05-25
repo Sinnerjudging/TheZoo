@@ -1,2 +1,18 @@
-﻿  main.cpp
-  Project1.vcxproj -> D:\Project1\x64\Debug\Project1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  OtoKhach.cpp
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoKhach.cpp(37,14): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoKhach.cpp(40,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoKhach.cpp(43,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoKhach.cpp(48,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoKhach.cpp(51,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoKhach.cpp(57,52): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+  OtoTai.cpp
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoTai.cpp(25,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoTai.cpp(27,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoTai.cpp(30,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoTai.cpp(36,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\Downloads\BaiChuyenXe\Project1\OtoTai.cpp(40,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Showroom.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Admin\Downloads\BaiChuyenXe\x64\Debug\BaiChuyenXe.exe
